@@ -123,6 +123,7 @@ SetBorderColor 0 96 100 50
  
 Show
 BaseType "Blacksmith's Whetstone" "Armourer's Scrap" "Orb of Transmutation" "Orb of Augmentation"
+PlayAlertSound 9 100
 SetFontSize 35
 SetBackgroundColor 0 0 0 250
 
